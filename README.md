@@ -4,12 +4,12 @@
 Soy , un estudiante y aprendiz de la programacion y la seguridad, si tu eres de esos te pregunto, ¿amigo o enemigo?
 
 ## Skills
-
-- *Python:* ⭐️⭐️⭐️⭐️
-- *JavaScript:* ⭐️⭐️⭐️
-- *HTML/CSS:* ⭐️⭐️⭐️
-- *React:* ⭐️⭐️
-- *Git:* ⭐️⭐️⭐️⭐️
+🎂 (Anios)
+- *Python:* 🎂🎂
+- *JavaScript:* 🎂
+- *HTML/CSS:* 🎂🎂
+- *React:* 🎂
+- *Git:* 🎂🎂
 
 ## Proyectos Destacados
 
