@@ -1,7 +1,7 @@
 
 # ♦️ Bienvenido a mi perfil de GitHub ♦️
 
-Soy , un estudiante y aprendiz de la programacion y la seguridad, si tu eres de esos te pregunto, ¿amigo o enemigo?
+Soy  un estudiante, aprendiz de la programacion y la seguridad, si tu eres de esos te pregunto, ¿amigo o enemigo?
 
 ## Skills
 🎂 (Anios)
