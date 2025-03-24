@@ -4,11 +4,11 @@
 Soy  un estudiante, aprendiz de la programacion y la seguridad, si tu eres de esos te pregunto, ¿amigo o enemigo?
 
 ## Skills
-🎂 (Anios)
-- *Python:* 🎂🎂
-- *Linux/Kali Linux:* 🎂
-- *MySQL:* 🎂
-- *Inteligencia Artificial:* 🍰
+- *Python:* ⭐⭐
+- *Linux/Kali Linux:* ⭐
+- *MySQL:* ⭐⭐
+- *Inteligencia Artificial:* ⭐⭐
+-Flutter / Flutterflor ⭐⭐
 
 ## Certificaciones
 - *https://coursera.org/share/42e14abe859cb37c0f3e6bd10aa54db4*
